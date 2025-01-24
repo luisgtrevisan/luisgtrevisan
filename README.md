@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @luisgtrevisan
 - 👀 I’m interested in  adquirir novos conhecimentos  e ser um desenvolvedor.
-- 🌱 I’m currently learning  Kotlin
 - 💞️ I’m looking to collaborate on  algum projeto.
 
 
